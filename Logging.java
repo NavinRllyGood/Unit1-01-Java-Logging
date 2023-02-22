@@ -26,7 +26,7 @@ public final class Logging {
     *
     * @param args placeholder
     */
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
 
         // Using Scanner for Getting Input from User
         System.out.println("Enter the length of your logs: ");
